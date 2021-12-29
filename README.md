@@ -2,7 +2,7 @@
 
 This repo contains all the projects coded by Vanilla JavaScript, HTML5, CSS3. (No frameworks, no libraries).
 - 🌱 Using pure JavaScript, HTML5, CSS3
-- 🔭 Still optmizing and fixing code to become better
+- 🔭 Still optimizing and fixing code to become better
 
 ## Countdown Timer
 

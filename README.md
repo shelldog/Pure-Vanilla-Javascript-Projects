@@ -6,7 +6,7 @@ This repo contains all the projects coded by Vanilla JavaScript, HTML5, CSS3. (N
 
 ## Countdown Timer
 
-[![countdown-timer](./images/CountDownTimer.PNG)]
+[countdown-timer](./images/CountDownTimer.PNG)
 
 ### Techs:
 
